@@ -35,9 +35,7 @@ color: white;
 }
 
 .dropdown > li {
-line-height: 50px;
 background-color: lightblue;
-
 }
 
 .dropdown {
@@ -47,10 +45,6 @@ overflow: hidden;
 
 .menu > li:hover {
 background-color: skyblue;
-}
-
-.menu > li:hover .dropdown {
-height: 150px;
 }
 
 .menu > li:hover .dropdown {
